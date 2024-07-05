@@ -1,6 +1,8 @@
 ![profile](https://user-images.githubusercontent.com/28994301/174661733-7e410471-d6cf-4d6c-99d2-836ab2287eb1.jpg)
 
-Building products that respect people and the planet means giving you the power to customize and modify what you own.  Our repositories contain code, CAD, and reference designs for key parts of the Framework Laptop and are licensed to enable simple re-mixing and sharing.
+Building products that respect people and the planet means giving you the power to customize and modify what you own.
+Our repositories contain code, CAD, and reference designs for key parts of the Framework Laptop and are licensed to enable simple re-mixing and sharing.
+Check out the [Framework Community](https://community.frame.work/c/developer-program/85) for developer support.
 
 # Framework Laptop 13
 Framework Laptop 13 is a thin, light, high-performance 13.5" notebook that is simple to customize, repair, and upgrade.  Many of the modules have open source documentation and reference designs.
