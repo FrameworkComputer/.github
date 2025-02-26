@@ -21,3 +21,9 @@ Framework Laptop 16 is a high-performance 16" notebook with upgradeable graphics
    * [Input Module Firmware](https://github.com/FrameworkComputer/inputmodule-rs) - Open source firmware and tools to enable Input Module development.
    * [QMK](https://github.com/FrameworkComputer/qmk_firmware) - A fork of QMK firmware used on Framework Laptop 16 keyboards.
  * [Embedded Controller](https://github.com/FrameworkComputer/EmbeddedController) - Open source firmware for the embedded controller.
+
+# Framework Desktop
+Framework Desktop is a tiny, high-performance desktop with a MiniITX Mainboard form factor, FlexATX power supply, and range of customization options.
+
+ * [Framework Desktop](https://github.com/FrameworkComputer/Framework-Desktop) - Open source CAD of parts of the chassis and the Mainboard.
+ * [Embedded Controller](https://github.com/FrameworkComputer/EmbeddedController) - Open source firmware for the embedded controller.
