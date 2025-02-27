@@ -1,4 +1,4 @@
-![profile](https://github.com/FrameworkComputer/.github/assets/28994301/e3a55016-a75b-4388-af53-2db0d46fec14)
+![Framework](https://github.com/user-attachments/assets/06ae1ad2-35c1-41d8-a6f7-54a030e8c76d)
 
 Building products that respect people and the planet means giving you the power to customize and modify what you own.
 Our repositories contain code, CAD, and reference designs for key parts of the Framework Laptop and are licensed to enable simple re-mixing and sharing.
