@@ -27,3 +27,10 @@ Framework Desktop is a tiny, high-performance desktop with a MiniITX Mainboard f
 
  * [Framework Desktop](https://github.com/FrameworkComputer/Framework-Desktop) - Open source CAD of parts of the chassis and the Mainboard.
  * [Embedded Controller](https://github.com/FrameworkComputer/EmbeddedController) - Open source firmware for the embedded controller.
+
+# Framework Laptop 12
+Framework Laptop 12 is a durable, colorful, highly-repairable, 12.2" convertible notebook.  Many of the modules have open source documentation and reference designs.
+
+ * [Framework Laptop 12](https://github.com/FrameworkComputer/Framework-Laptop-12) - Open source documentation around the Mainboard and connectors.
+ * [Expansion Cards](https://github.com/FrameworkComputer/ExpansionCards) - Open source CAD and reference designs for the Expansion Cards that enable port swappability.
+ * [Embedded Controller](https://github.com/FrameworkComputer/EmbeddedController) - Open source firmware for the embedded controller.
